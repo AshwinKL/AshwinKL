@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwinkl&label=Profile%20views&color=0e75b6&style=flat" alt="ashwinkl" /> </p>
 
-- Currently I’m curious on **Solidity**
+- ✨ I’m currently learning **import react from "react";**
 
-- 🌱 I’m currently learning **import react from "react";**
-
-- 👨‍💻 All of my projects are available at [https://ashwinkl.github.io/my-portfolio/](https://ashwinkl.github.io/my-portfolio/)
+- 💻 All of my projects are available at [https://ashwinkl.github.io/my-portfolio/](https://ashwinkl.github.io/my-portfolio/)
 
 - 💬 Ask me about **reactJs,Python,Solidity**
 
