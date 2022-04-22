@@ -5,9 +5,9 @@
 
 - ✨ I’m currently learning **import react from "react";**
 
-- 💻 All of my projects are available at [https://ashwinkl.github.io/my-portfolio/](https://ashwinkl.github.io/my-portfolio/)
+<!-- - 💻 All of my projects are available at [https://ashwinkl.github.io/my-portfolio/](https://ashwinkl.github.io/my-portfolio/) -->
 
-- 💬 Ask me about **reactJs,Python,Solidity**
+- 💬 Ask me about **reactJs,Python**
 
 - 📫 How to reach me **kleaaashwin29@gmail.com**
 
